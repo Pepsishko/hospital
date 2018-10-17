@@ -1,0 +1,91 @@
+c:\users\аркадий\source\repos\Laba1_IBEXpert\Laba1_IBEXpert\bin\Debug\Laba1_IBEXpert.exe.config
+c:\users\аркадий\source\repos\Laba1_IBEXpert\Laba1_IBEXpert\bin\Debug\Laba1_IBEXpert.exe
+c:\users\аркадий\source\repos\Laba1_IBEXpert\Laba1_IBEXpert\bin\Debug\Laba1_IBEXpert.pdb
+c:\users\аркадий\source\repos\Laba1_IBEXpert\Laba1_IBEXpert\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+c:\users\аркадий\source\repos\Laba1_IBEXpert\Laba1_IBEXpert\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+c:\users\аркадий\source\repos\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csprojAssemblyReference.cache
+c:\users\аркадий\source\repos\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.Form1.resources
+c:\users\аркадий\source\repos\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.Properties.Resources.resources
+c:\users\аркадий\source\repos\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csproj.GenerateResource.cache
+c:\users\аркадий\source\repos\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csproj.CoreCompileInputs.cache
+c:\users\аркадий\source\repos\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csproj.CopyComplete
+c:\users\аркадий\source\repos\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.exe
+c:\users\аркадий\source\repos\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.pdb
+I:\Laba1_IBEXpert\Laba1_IBEXpert\bin\Debug\Laba1_IBEXpert.exe.config
+I:\Laba1_IBEXpert\Laba1_IBEXpert\bin\Debug\Laba1_IBEXpert.exe
+I:\Laba1_IBEXpert\Laba1_IBEXpert\bin\Debug\Laba1_IBEXpert.pdb
+I:\Laba1_IBEXpert\Laba1_IBEXpert\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+I:\Laba1_IBEXpert\Laba1_IBEXpert\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+I:\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csprojResolveAssemblyReference.cache
+I:\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.Form1.resources
+I:\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.Properties.Resources.resources
+I:\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csproj.GenerateResource.cache
+I:\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csproj.CoreCompileInputs.cache
+I:\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csproj.CopyComplete
+I:\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.exe
+I:\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.pdb
+C:\Users\student\Desktop\Laba1_IBEXpert\Laba1_IBEXpert\bin\Debug\Laba1_IBEXpert.exe.config
+C:\Users\student\Desktop\Laba1_IBEXpert\Laba1_IBEXpert\bin\Debug\Laba1_IBEXpert.exe
+C:\Users\student\Desktop\Laba1_IBEXpert\Laba1_IBEXpert\bin\Debug\Laba1_IBEXpert.pdb
+C:\Users\student\Desktop\Laba1_IBEXpert\Laba1_IBEXpert\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\student\Desktop\Laba1_IBEXpert\Laba1_IBEXpert\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\student\Desktop\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.Form1.resources
+C:\Users\student\Desktop\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.Properties.Resources.resources
+C:\Users\student\Desktop\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csproj.CopyComplete
+C:\Users\student\Desktop\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.exe
+C:\Users\student\Desktop\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.pdb
+I:\Базы данных\Laba1_IBEXpert\Laba1_IBEXpert\bin\Debug\Laba1_IBEXpert.exe.config
+I:\Базы данных\Laba1_IBEXpert\Laba1_IBEXpert\bin\Debug\Laba1_IBEXpert.exe
+I:\Базы данных\Laba1_IBEXpert\Laba1_IBEXpert\bin\Debug\Laba1_IBEXpert.pdb
+I:\Базы данных\Laba1_IBEXpert\Laba1_IBEXpert\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+I:\Базы данных\Laba1_IBEXpert\Laba1_IBEXpert\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+I:\Базы данных\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csprojResolveAssemblyReference.cache
+I:\Базы данных\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.Form1.resources
+I:\Базы данных\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.Properties.Resources.resources
+I:\Базы данных\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csproj.GenerateResource.cache
+I:\Базы данных\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csproj.CoreCompileInputs.cache
+I:\Базы данных\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csproj.CopyComplete
+I:\Базы данных\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.exe
+I:\Базы данных\Laba1_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.pdb
+I:\Базы данных\Laba3_IBEXpert\Laba1_IBEXpert\bin\Debug\Laba1_IBEXpert.exe.config
+I:\Базы данных\Laba3_IBEXpert\Laba1_IBEXpert\bin\Debug\Laba1_IBEXpert.exe
+I:\Базы данных\Laba3_IBEXpert\Laba1_IBEXpert\bin\Debug\Laba1_IBEXpert.pdb
+I:\Базы данных\Laba3_IBEXpert\Laba1_IBEXpert\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+I:\Базы данных\Laba3_IBEXpert\Laba1_IBEXpert\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+I:\Базы данных\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csprojResolveAssemblyReference.cache
+I:\Базы данных\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.Form1.resources
+I:\Базы данных\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.Properties.Resources.resources
+I:\Базы данных\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csproj.GenerateResource.cache
+I:\Базы данных\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csproj.CoreCompileInputs.cache
+I:\Базы данных\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csproj.CopyComplete
+I:\Базы данных\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.exe
+I:\Базы данных\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.pdb
+C:\Users\Студент\Desktop\Laba3_IBEXpert\Laba1_IBEXpert\bin\Debug\Laba1_IBEXpert.exe.config
+C:\Users\Студент\Desktop\Laba3_IBEXpert\Laba1_IBEXpert\bin\Debug\Laba1_IBEXpert.exe
+C:\Users\Студент\Desktop\Laba3_IBEXpert\Laba1_IBEXpert\bin\Debug\Laba1_IBEXpert.pdb
+C:\Users\Студент\Desktop\Laba3_IBEXpert\Laba1_IBEXpert\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Студент\Desktop\Laba3_IBEXpert\Laba1_IBEXpert\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\Студент\Desktop\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csprojAssemblyReference.cache
+C:\Users\Студент\Desktop\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.Form1.resources
+C:\Users\Студент\Desktop\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.Properties.Resources.resources
+C:\Users\Студент\Desktop\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csproj.CopyComplete
+C:\Users\Студент\Desktop\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.exe
+C:\Users\Студент\Desktop\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.pdb
+C:\Users\Студент\Desktop\hospital-master\Laba3_IBEXpert\Laba1_IBEXpert\bin\Debug\Laba1_IBEXpert.exe.config
+C:\Users\Студент\Desktop\hospital-master\Laba3_IBEXpert\Laba1_IBEXpert\bin\Debug\Laba1_IBEXpert.exe
+C:\Users\Студент\Desktop\hospital-master\Laba3_IBEXpert\Laba1_IBEXpert\bin\Debug\Laba1_IBEXpert.pdb
+C:\Users\Студент\Desktop\hospital-master\Laba3_IBEXpert\Laba1_IBEXpert\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Студент\Desktop\hospital-master\Laba3_IBEXpert\Laba1_IBEXpert\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\Студент\Desktop\hospital-master\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csprojAssemblyReference.cache
+C:\Users\Студент\Desktop\hospital-master\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.Form1.resources
+C:\Users\Студент\Desktop\hospital-master\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.Properties.Resources.resources
+C:\Users\Студент\Desktop\hospital-master\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\hospital-master\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\hospital-master\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.csproj.CopyComplete
+C:\Users\Студент\Desktop\hospital-master\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.exe
+C:\Users\Студент\Desktop\hospital-master\Laba3_IBEXpert\Laba1_IBEXpert\obj\Debug\Laba1_IBEXpert.pdb
