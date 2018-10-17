@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba1_IBEXpert", "Laba1_IBEXpert\Laba1_IBEXpert.csproj", "{DE061364-3579-4407-B9ED-12D5B6D0D33E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE061364-3579-4407-B9ED-12D5B6D0D33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE061364-3579-4407-B9ED-12D5B6D0D33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE061364-3579-4407-B9ED-12D5B6D0D33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE061364-3579-4407-B9ED-12D5B6D0D33E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8513094-B052-4E90-8182-B64F35098C9E}
+	EndGlobalSection
+EndGlobal
